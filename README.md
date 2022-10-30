@@ -1,1 +1,1 @@
-# bggen
+# Linear Gradient Background Generator
